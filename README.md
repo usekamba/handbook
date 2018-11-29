@@ -11,20 +11,3 @@ Todos comentários e sugestões sobretudo na forma de *pull request* serão muit
 Esta é uma empresa em andamento e esperamos que melhore com mais tempo e mais colaboradores.
 
 -- Amarildo
-
-## Introdução
-
-- [Visão]()
-- [Missão]()
-- [Valores]()
-- [Metas]()
-
-## Política de trabalho híbrido (remoto vs presencial)
-- [Salário e Equidade]()
-- [Política de trabalho remoto]()
-- [Nosso escritório]()
-- [Reuniões]()
-
-## Benefícios
-- [Escalabilidade]()
-- [Programas de formação e desenvolvimento]()
