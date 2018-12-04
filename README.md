@@ -16,6 +16,6 @@ Esta é uma empresa em andamento e esperamos que melhore com mais tempo e mais c
 
 ## Introdução
 
-- [Sobre a KAMBA](https://bitbucket.org/usekamba/handbook/src/master/sobre-a-kamba.md)
-- [Visão](https://bitbucket.org/usekamba/handbook/src/master/visao.md)
-- [Missão](https://bitbucket.org/usekamba/handbook/src/master/missao.md)
+- [Sobre a KAMBA](https://github.com/usekamba/handbook/blob/master/sobre-a-kamba.md)
+- [Visão](https://github.com/usekamba/handbook/blob/master/visao.md)
+- [Missão](https://github.com/usekamba/handbook/blob/master/missao.md)
