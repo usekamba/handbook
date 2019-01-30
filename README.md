@@ -19,3 +19,4 @@ Esta é uma empresa em andamento e esperamos que melhore com mais tempo e mais c
 - [Sobre a KAMBA](https://github.com/usekamba/handbook/blob/master/sobre-a-kamba.md)
 - [Visão](https://github.com/usekamba/handbook/blob/master/visao.md)
 - [Missão](https://github.com/usekamba/handbook/blob/master/missao.md)
+- [Trabalho remoto](https://github.com/usekamba/handbook/blob/master/remoto.md)
