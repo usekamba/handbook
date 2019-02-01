@@ -20,3 +20,4 @@ Esta é uma empresa em andamento e esperamos que melhore com mais tempo e mais c
 - [Visão](https://github.com/usekamba/handbook/blob/master/visao.md)
 - [Missão](https://github.com/usekamba/handbook/blob/master/missao.md)
 - [Trabalho remoto](https://github.com/usekamba/handbook/blob/master/remoto.md)
+- [Último dia de trabalho](https://github.com/usekamba/handbook/blob/master/ultimo_dia_de_trabalho.md)
