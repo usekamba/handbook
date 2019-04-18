@@ -16,6 +16,7 @@ O acesso a essas contas devem ser revogadas após a conclusão ou interrupção 
 - Papertrail
 - Skylight
 - Rails Admin
+- Metabase
 
 **Nota 1:** Remover acesso de grupos sociais como Facebook Groups, WhatsApp, Skype.
 
