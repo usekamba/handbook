@@ -9,7 +9,6 @@ O acesso a essas contas devem ser revogadas após a conclusão ou interrupção 
 - Trello
 - Google G-suite
 - Heroku
-- Digital Ocean
 - Amazon AWS S3
 - Mailgun
 - Rollbar
