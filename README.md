@@ -23,6 +23,7 @@ Esta é uma empresa em andamento e esperamos que melhore com mais tempo e mais c
 ## Colaboradores
 
 - [Solicitar ajuda ou como fazer uma boa pergunta](https://github.com/usekamba/handbook/blob/master/conseguir_ajuda.md)
+- [Relatórios diretos](https://github.com/usekamba/handbook/blob/master/relatorios_diretos.md)
 - [Folha de pagamento ou salário](https://github.com/usekamba/handbook/blob/master/folha_de_pagamento_sal%C3%A1rio.md)
 - [Igualdade de oportunidade](https://github.com/usekamba/handbook/blob/master/igualdade_de_oportunidade.md)
 - [Último dia de trabalho](https://github.com/usekamba/handbook/blob/master/ultimo_dia_de_trabalho.md)
