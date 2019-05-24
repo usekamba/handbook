@@ -27,4 +27,5 @@ Esta é uma empresa em andamento e esperamos que melhore com mais tempo e mais c
 - [Último dia de trabalho](https://github.com/usekamba/handbook/blob/master/ultimo_dia_de_trabalho.md)
 
 ## Processos e práticas
+- [Reuniões recorrentes](https://github.com/usekamba/handbook/blob/master/reunioes_recorrentes.md)
 - [Trabalho remoto](https://github.com/usekamba/handbook/blob/master/remoto.md)
