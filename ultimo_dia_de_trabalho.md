@@ -2,20 +2,21 @@
 
 O acesso a essas contas devem ser revogadas após a conclusão ou interrupção do contrato:
 
-- Bitbucket
-- Github
-- Slack
-- Jira
-- Trello
-- Google G-suite
-- Heroku
 - Amazon AWS S3
+- Bitbucket
+- Codacy
+- Github
+- Google G-suite
+- Jira
+- Heroku
 - Mailgun
-- Rollbar
-- Papertrail
-- Skylight
-- Rails Admin
 - Metabase
+- Papertrail
+- Rails Admin
+- Rollbar
+- Skylight
+- Slack
+- Trello
 
 **Nota 1:** Remover acesso de grupos sociais como Facebook Groups, WhatsApp, Skype.
 
